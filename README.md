@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshishTK
-- 👀 I’m interested in Data Analysis and Visualization
-- 🌱 I’m currently learning Machine Learning algorithms 
+- 👀 I’m interested in Data Science and ML models
+- 🌱 I’m currently learning about deploying ML models on the cloud 
 - 📫 How to reach me - https://www.linkedin.com/in/ashishtk/
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
